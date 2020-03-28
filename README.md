@@ -7,4 +7,5 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 I got the Country Code and Coordinate JSON - https://gist.github.com/sindresorhus/1341699
 
 Idea of the animated bar plot - 
+
 https://towardsdatascience.com/how-to-create-plots-with-beautiful-animation-using-gganimate-912f4279b073
