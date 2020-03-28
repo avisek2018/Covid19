@@ -1,4 +1,4 @@
-# Covid19
+# Animated Bar Plot using Covid-19 Data
 Several personal fun projects I did with the Covid 19 data
 
 Corona Data is from European Centre for Disease Prevention and Control [E.C.D.C.] - 
