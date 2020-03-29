@@ -9,3 +9,6 @@ I got the Country Code and Coordinate JSON - https://gist.github.com/sindresorhu
 Idea of the animated bar plot - 
 
 https://towardsdatascience.com/how-to-create-plots-with-beautiful-animation-using-gganimate-912f4279b073
+
+
+![](CoronaDynamic_Avisek.gif)
